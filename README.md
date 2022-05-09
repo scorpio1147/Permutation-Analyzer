@@ -16,4 +16,4 @@ This project was implemented using Ruby, which I learned in my CMSC330 (Organiza
 <img width="1022" alt="image" src="https://user-images.githubusercontent.com/25085195/167344004-5445e841-c3a2-47e9-8c54-69816ba8db92.png">
 	
 ## Setup
-To run this project, first get the repository on your local machine by running `git clone https://github.com/scorpio1147/Permutation-Analyzer.git`. After this, make sure that you have Ruby installed. If you do not, download it [here](https://www.ruby-lang.org/en/downloads/). Finally, navigate to the project directory by typing `cd Permutation-Analyzer` in the terminal and run `ruby permutation.rb`. The program should be up and running now! 
+To run this project, first get the repository on your local machine by running `git clone https://github.com/scorpio1147/Permutation-Analyzer.git` in whichever directory you would like the program to be. After this, make sure that you have Ruby installed. If you do not, download it [here](https://www.ruby-lang.org/en/downloads/). Finally, navigate to the project directory by typing `cd Permutation-Analyzer` in the terminal and run `ruby permutation.rb`. The program should be up and running now! 
