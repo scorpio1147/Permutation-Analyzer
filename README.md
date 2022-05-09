@@ -20,7 +20,7 @@ This project was implemented using Ruby, which I learned in my CMSC330 (Organiza
 To run this project, first get the repository on your local machine by running `git clone https://github.com/scorpio1147/Permutation-Analyzer.git` in whichever directory you would like the program to be. After this, make sure that you have Ruby installed. If you do not, download it [here](https://www.ruby-lang.org/en/downloads/). Finally, navigate to the project directory by typing `cd Permutation-Analyzer` in the terminal and run `ruby permutation.rb`. The program should be up and running now! 
 
 ## Further Reading
-This is a very shallow exposition of the enormous rabbithole that is abstract algebra and group (or ring/field) theory. There are a plethora of great resources to get better at this stuff. A few are listed here:
+This is a very shallow exposition of the enormous rabbithole that is Abstract Algebra and group (or ring/field) theory. There are a plethora of great resources to get better at this stuff. A few are listed here:
 * [A very brief overview of the subject](https://brilliant.org/wiki/abstract-algebra/)
 * [Contemporary Abstract Algebra 9th Edition, by Joseph Gallian](https://www.amazon.com/Contemporary-Abstract-Algebra-Joseph-Gallian/dp/1305657969/ref=pd_lpo_2?pd_rd_i=1305657969&psc=1) (our class textbook)
 * [Michael Penn's YouTube playlist on Abstract Algebra](https://www.youtube.com/watch?v=Ol5BoUV6SjA&list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP) (a personal favorite)
