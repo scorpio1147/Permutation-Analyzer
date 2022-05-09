@@ -21,7 +21,7 @@ To run this project, first get the repository on your local machine by running `
 
 ## Further Reading
 This is a very shallow exposition of the enormous rabbithole that is abstract algebra and group (or ring/field) theory. There are a plethora of great resources to get better at this stuff. A few are listed here:
-* https://brilliant.org/wiki/abstract-algebra/ (very brief overview of the subject)
+* [A very brief overview of the subject](https://brilliant.org/wiki/abstract-algebra/)
 * Contemporary Abstract Algebra 9th Edition, by Joseph Gallian (our class textbook)
-* https://www.youtube.com/watch?v=Ol5BoUV6SjA&list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP (Michael Penn's YouTube playlist on Abstract Algebra, a personal favorite)
+* [Michael Penn's YouTube playlist on Abstract Algebra, a personal favorite](https://www.youtube.com/watch?v=Ol5BoUV6SjA&list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP )
 By no means is this an exhaustive list; these are just resources that I find use in. Do your own research and explore the vast (integral) domain that is Abstract Algebra :)
